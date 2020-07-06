@@ -11,3 +11,4 @@
 5. npm install --save-dev eslint
    npm install --save-dev eslint-plugin-react eslint-config-prettier eslint-plugin-prettier
 6. npm install --save-dev husky
+7. npm install --save-dev sass
