@@ -1,0 +1,19 @@
+{
+  "name": "react-scaffold",
+  "version": "1.0.0",
+  "description": "1. npm init 2. npm install --save-dev @babel/preset-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jianghaifeng/react-scaffold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jianghaifeng/react-scaffold/issues"
+  },
+  "homepage": "https://github.com/jianghaifeng/react-scaffold#readme"
+}
