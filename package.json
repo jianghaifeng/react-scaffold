@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
+    "lint": "eslint \"src/\" --cache --fix --format table",
     "format": "prettier --write \"src/*.+(js|css)\""
   },
   "repository": {
